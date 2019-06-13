@@ -1,2 +1,3 @@
-## 공공데이터-교통사고 https://www.data.go.kr/dataset/15011998/fileData.do
-Jupyter notebook https://youtu.be/jZ952vChhuI 
+* 공데이터-교통사고 https://www.data.go.kr/dataset/15011998/fileData.do
+* Jupyter notebook https://youtu.be/jZ952vChhuI 
+
